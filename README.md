@@ -5,4 +5,4 @@ a list of movies i need to watch
 - [x] Elf
 - [x] Napoleon Dynamite
 - [ ] The Godfather
-- [ ] Oceans Eleven
+- [x] Oceans Eleven
